@@ -1,0 +1,11 @@
+what gcp resources does this script deploy?
+
+what are the firewall rules?
+
+add a firewall rule for icmp
+
+show me the instance tags
+
+add allow-icmp to instance tags
+
+merge these changes and update main.tf
